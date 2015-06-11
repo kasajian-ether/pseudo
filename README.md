@@ -8,3 +8,5 @@ Examples:
       pseudo cmd.exe
       pseudo Powershell
       pseudo PowerShell -Command "& {Get-EventLog -LogName security}"
+      
+and all in a 3 line bat file: https://github.com/kasajian/pseudo/blob/master/pseudo.bat
